@@ -27,7 +27,6 @@ public class PlayWithPezDisperser {
         mermaid.eat();
         mermaid.eat();
         mermaid.eat();
-        mermaid.eat();
         System.out.println(mermaid.getCurrentCandy());
 
         mermaid.fill(2);
